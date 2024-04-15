@@ -50,7 +50,7 @@ H: altura
 
 TRAPÉZIO 
 
-$A=\frac{(B+b)}.{h}{2}$
+$A=\frac{(B+b).h}{2}$
 
 Sendo,
 

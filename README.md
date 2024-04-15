@@ -51,3 +51,25 @@ H: altura
 TRAPÉZIO 
 
 $A=\frac{(B+b)}.{h}{2}$
+
+Sendo,
+
+A:area
+
+B:base maior 
+
+b:base menor
+
+h:altura
+
+CÍRCULO 
+
+$A=π.r^{2}$
+
+Sendo,
+
+A: área 
+
+π: constante pi(3,14)
+
+r:raio

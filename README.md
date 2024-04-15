@@ -13,3 +13,8 @@ A:área
 B:base
 
 h:altura
+
+QUADRADO 
+
+$A=L^{2}$
+

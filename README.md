@@ -82,7 +82,7 @@ ax²+bx+c=0
 
 Fórmula de Bhaskara
 
-$\sqrt
+$\sqrt(-b±b²-4•a•c)(2•a)
 
 Discriminante Delta
 

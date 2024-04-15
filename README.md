@@ -3,8 +3,13 @@ Aula 5
 
 
 TRIÂNGULO 
+
 $A=\frac{b.h}{2}$
+
 sendo,
+
 A:área
+
 B:base
+
 h:altura

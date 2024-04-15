@@ -35,3 +35,19 @@ A: área
 D:diagonal maior
 
 d: diagonal menor
+
+RETÂNGULO 
+
+$A=frac{b.h}$
+
+Sendo,
+
+A: área 
+
+B:base
+
+H: altura 
+
+TRAPÉZIO 
+
+$A=\frac{(B+b)}.h{2}$

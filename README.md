@@ -73,3 +73,13 @@ A: área
 π: constante pi(3,14)
 
 r:raio
+
+Fórmula de Bhaskara
+
+Equação de 2°grau 
+
+ax²+bx+c=0
+
+Fórmula de Bhaskara
+
+$\sqrt-b+b²-4•a•c(2•c)
